@@ -1,0 +1,16 @@
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd outUV copy.jpg
+bump outUV_NRM.png -bm -4.304348
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd streetfloor_color.jpg
+bump streetfloor_color_NRM.png -bm -2.913043
+Ni 1.00
